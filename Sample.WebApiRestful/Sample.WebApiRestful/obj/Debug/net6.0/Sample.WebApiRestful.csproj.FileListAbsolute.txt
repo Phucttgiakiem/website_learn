@@ -1,0 +1,7 @@
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful\obj\Debug\net6.0\Sample.WebApiRestful.csproj.AssemblyReference.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful\obj\Debug\net6.0\Sample.WebApiRestful.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful\obj\Debug\net6.0\Sample.WebApiRestful.AssemblyInfoInputs.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful\obj\Debug\net6.0\Sample.WebApiRestful.AssemblyInfo.cs
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful\obj\Debug\net6.0\Sample.WebApiRestful.csproj.CoreCompileInputs.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful\obj\Debug\net6.0\Sample.WebApiRestful.MvcApplicationPartsAssemblyInfo.cs
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful\obj\Debug\net6.0\Sample.WebApiRestful.MvcApplicationPartsAssemblyInfo.cache

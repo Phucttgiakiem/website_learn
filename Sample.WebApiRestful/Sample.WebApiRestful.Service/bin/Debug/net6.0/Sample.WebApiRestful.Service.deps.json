@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sample.WebApiRestful.Service/1.0.0": {
+        "runtime": {
+          "Sample.WebApiRestful.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sample.WebApiRestful.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

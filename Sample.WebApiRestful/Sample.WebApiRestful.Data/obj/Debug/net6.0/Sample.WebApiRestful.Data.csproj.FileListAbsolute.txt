@@ -1,0 +1,17 @@
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\bin\Debug\net6.0\Sample.WebApiRestful.Data.deps.json
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\bin\Debug\net6.0\Sample.WebApiRestful.Data.runtimeconfig.json
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\bin\Debug\net6.0\Sample.WebApiRestful.Data.dll
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\bin\Debug\net6.0\Sample.WebApiRestful.Data.pdb
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\bin\Debug\net6.0\Sample.WebApiRestful.Domain.dll
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\bin\Debug\net6.0\Sample.WebApiRestful.Domain.pdb
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.csproj.AssemblyReference.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.AssemblyInfoInputs.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.AssemblyInfo.cs
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.csproj.CoreCompileInputs.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.csproj.CopyComplete
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.dll
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\refint\Sample.WebApiRestful.Data.dll
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.pdb
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\Sample.WebApiRestful.Data.genruntimeconfig.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Data\obj\Debug\net6.0\ref\Sample.WebApiRestful.Data.dll

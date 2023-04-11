@@ -1,0 +1,12 @@
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\bin\Debug\net6.0\Sample.WebApiRestful.Domain.deps.json
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\bin\Debug\net6.0\Sample.WebApiRestful.Domain.dll
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\bin\Debug\net6.0\Sample.WebApiRestful.Domain.pdb
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\Sample.WebApiRestful.Domain.csproj.AssemblyReference.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\Sample.WebApiRestful.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\Sample.WebApiRestful.Domain.AssemblyInfoInputs.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\Sample.WebApiRestful.Domain.AssemblyInfo.cs
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\Sample.WebApiRestful.Domain.csproj.CoreCompileInputs.cache
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\Sample.WebApiRestful.Domain.dll
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\refint\Sample.WebApiRestful.Domain.dll
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\Sample.WebApiRestful.Domain.pdb
+D:\laptrinhc\csharp\webapi\sample.webapiRestful\Sample.WebApiRestful.Domain\obj\Debug\net6.0\ref\Sample.WebApiRestful.Domain.dll

@@ -1,0 +1,12 @@
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\bin\Debug\net6.0\Sample.WebApiRestful.Service.deps.json
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\bin\Debug\net6.0\Sample.WebApiRestful.Service.dll
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\bin\Debug\net6.0\Sample.WebApiRestful.Service.pdb
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\Sample.WebApiRestful.Service.csproj.AssemblyReference.cache
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\Sample.WebApiRestful.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\Sample.WebApiRestful.Service.AssemblyInfoInputs.cache
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\Sample.WebApiRestful.Service.AssemblyInfo.cs
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\Sample.WebApiRestful.Service.csproj.CoreCompileInputs.cache
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\Sample.WebApiRestful.Service.dll
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\refint\Sample.WebApiRestful.Service.dll
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\Sample.WebApiRestful.Service.pdb
+D:\laptrinhc\csharp\webapi\Sample.WebApiRestful\Sample.WebApiRestful.Service\obj\Debug\net6.0\ref\Sample.WebApiRestful.Service.dll
